@@ -3,14 +3,14 @@ import React from 'react'
 
 const Hero: React.FC = () => {
   return (
-    <main className="lg:w-2/3 w-full mx-auto relative shadow-md px-5 py-7 bg-white">
+    <main className="lg:w-2/3 w-full mx-auto relative  px-5 py-7 bg-white">
       <div className="relative pb-5 bg-white lg:z-10 lg:w-2/3">
         <div className="mx-auto px-4 sm:px-6 lg:px-8">
           <div className="sm:text-center lg:text-left">
             <h1 className="text-4xl tracking-tight font-bold text-gray-900 sm:text-5xl sm:tracking-tight md:text-6xl md:tracking-tight">
-              <span className="block xl:inline text-[#010125]">Bring Events To The</span>
+              <span className="block xl:inline text-[#010125]">Host Events on the</span>
               <br />
-              <span className="block text-orange-500 xl:inline"> Web3 Marketplace</span>
+              <span className="block text-[#354f52] xl:inline"> Web3 Marketplace</span>
             </h1>
 
             <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
